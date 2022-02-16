@@ -1,4 +1,4 @@
-<h2>Hi there, I'm Michelle!<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="70"></h2>
+<h2>Hi there, I'm Michelle!<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="70" height="50"></h2>
 
 I am a full-stack software engineer with a 
 
