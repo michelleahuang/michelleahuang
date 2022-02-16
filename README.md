@@ -1,10 +1,38 @@
 <!-- <h2>Hi there, I'm Michelle!<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="65" height="45"></h2>
  -->
  
-<h2>Hi there, I'm Michelle! <img src="https://media.giphy.com/media/1z5bh2EDnAwckiGIRT/giphy.gif" width="65"></h2>
-
+<h2>Hi there, I'm Michelle!  <img src="https://media.giphy.com/media/1z5bh2EDnAwckiGIRT/giphy.gif" width="65"></h2>
  
-I am a full-stack software engineer.
+I am a full-stack software engineer passionate about continuous self-development and collaboration. 
+
+Check out some of my projects: 
+<details>
+ <summary>COVID-19 World Data Visualization Map 🌎</summary>
+ </br>
+ <a href="https://michelleahuang.github.io/Covid19-Visualization-Map/" target="_blank" title="Covid-19 Visualization Map">
+  <img src="https://raw.githubusercontent.com/michelleahuang/Covid19-Visualization-Map/main/src/images/demo.gif" width="350">
+ </a>
+ </br>
+ Technologies Used:
+ 
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+ ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+ ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+ ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+ 
+ 
+</details>
+
+<details>
+ <summary>Instacam 📸</summary>
+</details>
+
+<details>
+ <summary>codeUps 💻</summary>
+</details>
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
