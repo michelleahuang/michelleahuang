@@ -56,7 +56,7 @@ Check out some of my projects:
  <summary>codeUps 💻</summary>
  </br>
  <a href="https://codeups.herokuapp.com/#/" target="_blank" title="codeUps">
- 
+    <img src="https://raw.githubusercontent.com/ggharsha/codeUps/main/readme_assets/splash_page.gif" width="350">
  </a>
  </br>
  
