@@ -31,7 +31,7 @@ Check out some of my projects:
  <summary>Instacam 📸</summary>
  </br>
  <a href="https://the-instacam.herokuapp.com/#/login" target="_blank" title="Instacam">
- 
+   <img src="https://raw.githubusercontent.com/michelleahuang/Instacam/main/app/assets/images/overview.gif" width="350">
  </a>
  </br>
  
