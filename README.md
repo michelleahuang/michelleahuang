@@ -85,17 +85,29 @@ Check out some of my projects:
  <img align="left" alt="JavaScript" width="26px"      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 </a>
 
-<!-- <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
-    <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" />
-</a>  -->
-
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 </a>
 
+<a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
+ </a> 
+
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
+    <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" />
+</a> 
+
+<a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> 
+    <img align="left" alt="rails" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" /> 
+ </a>
+
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
  <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 </a>
+
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img align="left" alt="Express.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
+  </a>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
  <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -112,6 +124,14 @@ Check out some of my projects:
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
  <img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 </a>
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img align="left" alt="mongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+ </a> 
+ 
+ <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
+    <img align="left" alt="webpack" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original.svg" /> 
+ </a> 
 
 <a href="https://github.com/" target="_blank" rel="noreferrer"> 
  <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
