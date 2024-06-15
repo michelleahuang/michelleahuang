@@ -139,13 +139,6 @@ Check out some of my projects:
 
 <br>
 
----
-### GitHub Stats:
-<img align="left" alt="Michelle Huang's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=michelleahuang&show_icons=true&hide_border=true" />
-<img alt="Michelle Huang's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelleahuang" />
-
----
-
 <!-- ### Contact Me: -->
 <h3>Contact Me: <img src="https://media.giphy.com/media/RINCpfiUDKfVruibqh/giphy.gif" width="65"></h3>
 
